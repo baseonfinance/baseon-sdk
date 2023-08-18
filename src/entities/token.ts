@@ -61,7 +61,7 @@ export function currencyEquals(currencyA: Currency, currencyB: Currency): boolea
 export const WMATIC = {
   [ChainId.MAINNET]: new Token(
     ChainId.MAINNET,
-    '0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270',
+    '0x4200000000000000000000000000000000000006',
     18,
     'WMATIC',
     'Wrapped Matic'
